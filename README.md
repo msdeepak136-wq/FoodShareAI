@@ -8,8 +8,8 @@ Powered by built-in AI risk prediction and route optimization, FoodNova ensures 
 
 ## 🚀 Features
 
-- **🧠 AI Spoilage Prediction:** Automatically evaluates food risk and freshness based on quantity and hours remaining.
-- **🤝 Role-Based Dashboards:** Unique, tailored interfaces for Farmers, Suppliers, and NGOs.
+- **🧠 AI Spoilage Prediction:** Automatically evaluates food risk and freshness based on quantity and hours remaining through AI analysis.
+- **🤝 Role-Based Dashboards:** Unique, tailored interfaces for Farmers, Suppliers,Hotels,Restaurant and NGOs.
 - **📍 Real-time NGO Matching:** Integrates live localized searches to find the most compatible charities and shelters.
 - **🗺️ Live Route Maps:** Built-in dynamic routing with Leaflet mapping for visual coordination.
 - **⛽ AI Route Optimization:** Calculates distance savings, time improvements, fuel cost reductions, and CO₂ savings.
