@@ -1,4 +1,4 @@
-# 🌿 FoodNova (FoodShareAI)
+# FoodNova(FoodShareAI)
 
 FoodNova is an intelligent, zero-waste food distribution platform that connects farmers, suppliers, and communities with NGOs to efficiently redirect surplus food that would otherwise go to waste. 
 
@@ -18,7 +18,7 @@ Powered by built-in AI risk prediction and route optimization, FoodNova ensures 
 ## 🛠️ Technology Stack
 
 - **Frontend:** React, Vite, Vanilla CSS/Glassmorphism design, Leaflet Maps
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js,Python
 - **Database:** In-Memory (seeded JSON configuration for demo viability)
 - **External APIs:** Overpass API for live NGO geographical resolution
 
